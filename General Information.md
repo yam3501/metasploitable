@@ -4,7 +4,8 @@
 192.168.190.129
 ```
 
-![[Pasted image 20250208015221.png]]
+![](https://github.com/user-attachments/assets/11550a2d-4abc-4aed-b9a4-4b8d0c155c7b)
+
 # Scans
 ## nmap 
 ### quick scan
@@ -466,11 +467,7 @@ OS and Service detection performed. Please report any incorrect results at https
 # Nmap done at Sat Feb  8 02:19:52 2025 -- 1 IP address (1 host up) scanned in 165.60 seconds
 
 ```
-### udp scan
 
-```
-
-```
 ## rustscan
 
 ```
